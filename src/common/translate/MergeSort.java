@@ -2,6 +2,7 @@ package common.translate;
 
 /**
  * 归并排序
+ * 自己实现
  */
 public class MergeSort {
 

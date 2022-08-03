@@ -2,6 +2,7 @@ package common.translate;
 
 /**
  * 快速排序
+ * 单轴算法
  */
 public class QuickPlatoon {
 
